@@ -2,7 +2,7 @@
   "name": "code",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tawaiii.github.io/beejee/",
+  "homepage": "https://tawaiii.github.io/jellyfish/",
   "dependencies": {
     "@material-ui/core": "^3.3.2",
     "gh-pages": "^2.0.1",

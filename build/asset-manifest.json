@@ -1,13 +1,13 @@
 {
-  "main.css": "/beejee/static/css/main.1c897e4b.chunk.css",
-  "main.js": "/beejee/static/js/main.74a69b38.chunk.js",
-  "main.js.map": "/beejee/static/js/main.74a69b38.chunk.js.map",
-  "static/js/1.fadc47b5.chunk.js": "/beejee/static/js/1.fadc47b5.chunk.js",
-  "static/js/1.fadc47b5.chunk.js.map": "/beejee/static/js/1.fadc47b5.chunk.js.map",
-  "runtime~main.js": "/beejee/static/js/runtime~main.ed438e06.js",
-  "runtime~main.js.map": "/beejee/static/js/runtime~main.ed438e06.js.map",
-  "static/css/main.1c897e4b.chunk.css.map": "/beejee/static/css/main.1c897e4b.chunk.css.map",
-  "index.html": "/beejee/index.html",
-  "precache-manifest.2f726837c0b37e669b38f2993fdf4590.js": "/beejee/precache-manifest.2f726837c0b37e669b38f2993fdf4590.js",
-  "service-worker.js": "/beejee/service-worker.js"
+  "main.css": "/jellyfish/static/css/main.a4603478.chunk.css",
+  "main.js": "/jellyfish/static/js/main.5fc87a81.chunk.js",
+  "main.js.map": "/jellyfish/static/js/main.5fc87a81.chunk.js.map",
+  "static/js/1.fadc47b5.chunk.js": "/jellyfish/static/js/1.fadc47b5.chunk.js",
+  "static/js/1.fadc47b5.chunk.js.map": "/jellyfish/static/js/1.fadc47b5.chunk.js.map",
+  "runtime~main.js": "/jellyfish/static/js/runtime~main.0d94bee7.js",
+  "runtime~main.js.map": "/jellyfish/static/js/runtime~main.0d94bee7.js.map",
+  "static/css/main.a4603478.chunk.css.map": "/jellyfish/static/css/main.a4603478.chunk.css.map",
+  "index.html": "/jellyfish/index.html",
+  "precache-manifest.1dc4c2c5a8816ac401ad13e2b7345cf3.js": "/jellyfish/precache-manifest.1dc4c2c5a8816ac401ad13e2b7345cf3.js",
+  "service-worker.js": "/jellyfish/service-worker.js"
 }
